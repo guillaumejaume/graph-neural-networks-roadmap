@@ -35,6 +35,8 @@ inductive  biases,  deep  learning,  and  graph  networks** [[pdf]](https://arxi
 
 **[3]** Z. Zhang, P. Cui, and W. Zhu, **Deep Learning on Graphs: A Survey** [[pdf]](https://arxiv.org/pdf/1812.04202v1.pdf)
 
+**[4]** W. Zonghan, P. Shirui, C. Fengwen, L. Guodong, Z. Chengqi, Y. Philip, **A Comprehensive Survey on Graph Neural Networks** [[pdf]](https://arxiv.org/pdf/1901.00596.pdf)
+
 # 3. Let's dig by topic:
 
 ## 3.1 Pooling on graphs:
