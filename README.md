@@ -26,6 +26,9 @@ Quantum Chemistry,** ICML, 2017 [[pdf]](https://arxiv.org/pdf/1704.01212.pdf)
 **[5]** P. Veličković, G. Cucurull, A. Casanova, A. Romero, P. Liò, and Y. Bengio, **Graph Attention Networks,**
 ICLR, 2018 [[pdf]](https://arxiv.org/pdf/1710.10903.pdf)
 
+**[6]** K. Xu, W. Hu, J. Leskovec, S. Jegelka, **How Powerful are Graph Neural Networks ?,**
+ICLR, 2019 [[pdf]](https://arxiv.org/pdf/1810.00826.pdf)
+
 # 2. The short story: literature reviews 
 
 **[1]** P. W. Battaglia, J. B. Hamrick, V. Bapst, A. Sanchez-Gonzalez, V. Zambaldi, M. Malinowski, A. Tacchetti, D. Raposo, A. Santoro, R. Faulkner, C.  Gulcehre,  F.  Song,  A.  Ballard,  J.  Gilmer,  G.  Dahl,  A.  Vaswani, K.  Allen,  C.  Nash,  V.  Langston,  C.  Dyer,  N.  Heess,  D.  Wierstra, P. Kohli, M. Botvinick, O. Vinyals, Y. Li, and R. Pascanu, **Relational
