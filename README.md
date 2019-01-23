@@ -77,9 +77,21 @@ Directed Molecular Graph Generation,**, NIPS, 2018 [[pdf]](https://arxiv.org/pdf
 - Presentation on **Relational Learning** by Petar Veličković [[presentation]](https://www.cl.cam.ac.uk/~pv273/slides/MILA-RN.pdf)
 - Presentation on **Adversarial learning meets graphs** by Petar Veličković [[presentation]](https://www.cl.cam.ac.uk/~pv273/slides/MILA-AdvGraph.pdf)
 
-# 5. Videos 
+# 6. Videos 
 
 - **Geometric Deep Learning** by Siraj Raval [[video]](https://www.youtube.com/watch?v=D3fnGG7cdjY)
 - **Graph neural networks: Variations and applications** by Alexander Gaunt [[video]](https://www.youtube.com/watch?v=cWIeTMklzNg)
 
+# 7. Workshops
 
+* **Representation Learning on Networks** by Jure Leskovec [[link]](http://snap.stanford.edu/proj/embeddings-www/)
+  - Network/Relational Representation Learning
+  - Node embeddings
+  - Graph Neural Networks
+  - Applications in recommender systems and computational biology 
+  
+* **Deep Learning for Network Biology** by Jure Leskovec [[link]](https://www.youtube.com/watch?v=D3fnGG7cdjY)
+  - Network propagation and node embeddings
+  - Graph autoencoders and deep representation learning
+  - Heterogeneous networks
+  - Tensorflow examples
