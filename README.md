@@ -69,7 +69,12 @@ Directed Molecular Graph Generation,**, NIPS, 2018 [[pdf]](https://arxiv.org/pdf
 # 4. Libraries 
 
 - **DGL** [[code]](https://github.com/dmlc/dgl)
-- **pytorch-geometric** [[code PyTorch]](https://github.com/rusty1s/pytorch_geometric)
+- **pytorch-geometric** [[code PyTorch]](https://github.com/rusty1s/pytorch_geometric). Provides implementation for:
+  * GCN
+  * GAT
+  * Graph U-Net
+  * Deep Graph InfoMax
+  * GIN
 
 # 5. Presentation/Slides 
 
