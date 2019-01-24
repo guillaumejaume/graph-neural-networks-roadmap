@@ -68,6 +68,7 @@ Directed Molecular Graph Generation,**, NIPS, 2018 [[pdf]](https://arxiv.org/pdf
 
 # 4. Libraries 
 
+- **GraphNets** by DeepMind [[code TensorFlow/Sonnet]](https://github.com/deepmind/graph_nets)
 - **DGL** [[code]](https://github.com/dmlc/dgl)
 - **pytorch-geometric** [[code PyTorch]](https://github.com/rusty1s/pytorch_geometric). Provides implementation for:
   * GCN
