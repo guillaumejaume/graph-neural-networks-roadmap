@@ -81,6 +81,7 @@ Directed Molecular Graph Generation,**, NIPS, 2018 [[pdf]](https://arxiv.org/pdf
 
 - **Geometric Deep Learning** by Siraj Raval [[video]](https://www.youtube.com/watch?v=D3fnGG7cdjY)
 - **Graph neural networks: Variations and applications** by Alexander Gaunt [[video]](https://www.youtube.com/watch?v=cWIeTMklzNg)
+- **Large-scale Graph Representation Learning** by Jure Leskovec [[video]](https://www.youtube.com/watch?v=oQL4E1gK3VU)
 
 # 7. Workshops
 
