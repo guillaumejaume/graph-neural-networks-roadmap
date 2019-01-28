@@ -91,13 +91,16 @@ Directed Molecular Graph Generation,**, NIPS, 2018 [[pdf]](https://arxiv.org/pdf
 
 # 7. Workshops
 
+* **Relational Representation Learning** at NeurIPS 2018 [[link]](https://r2learning.github.io/)
+  - My paper: Image-Level Attentional Context Modeling using Nest Graph Neural Networks [[link]](https://arxiv.org/abs/1811.03830)
+
 * **Representation Learning on Networks** by Jure Leskovec [[link]](http://snap.stanford.edu/proj/embeddings-www/)
   - Network/Relational Representation Learning
   - Node embeddings
   - Graph Neural Networks
   - Applications in recommender systems and computational biology 
   
-* **Deep Learning for Network Biology** by Jure Leskovec [[link]](https://www.youtube.com/watch?v=D3fnGG7cdjY)
+* **Deep Learning for Network Biology** by Jure Leskovec [[link]](http://snap.stanford.edu/deepnetbio-ismb/)
   - Network propagation and node embeddings
   - Graph autoencoders and deep representation learning
   - Heterogeneous networks
