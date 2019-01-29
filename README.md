@@ -64,7 +64,11 @@ E. Lockhart, M. Shanahan, V. Langston, R. Pascanu, M. Botvinick, O. Vinyals, and
 **[2]**  J. You, B. Liu, R. Ying, V. Pande, and J. Leskovec, **Graph Convolutional Policy Network for Goal-
 Directed Molecular Graph Generation,**, NIPS, 2018 [[pdf]](https://arxiv.org/pdf/1806.02473.pdf)
 
-## 3.4 More to come 
+## 3.4 Knowledge Graphs
+
+**[1]** M. Nickel, K. Murphy, V. Tresp, E. Gabrilovich, **A Review of Relational Machine Learning for Knowledge Graphs** 2015 [[pdf]](https://arxiv.org/pdf/1503.00759.pdf)
+
+## 3.5 More to come 
 
 # 4. Libraries 
 
