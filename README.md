@@ -73,13 +73,16 @@ Directed Molecular Graph Generation,**, NIPS, 2018 [[pdf]](https://arxiv.org/pdf
 # 4. Libraries 
 
 - **GraphNets** by DeepMind [[code TensorFlow/Sonnet]](https://github.com/deepmind/graph_nets)
-- **Deep Graph Library (DGL)** [[code]](https://github.com/dmlc/dgl)
+- **Deep Graph Library (DGL)** [[code PyTorch]](https://github.com/dmlc/dgl)
 - **pytorch-geometric** [[code PyTorch]](https://github.com/rusty1s/pytorch_geometric). Provides implementation for:
   * GCN
   * GAT
   * Graph U-Net
   * Deep Graph InfoMax
   * GIN
+- **Graph Embedding Methods (GEM)** [[code Keras]](https://github.com/palash1992/GEM) 
+  * Node2vec
+  * Laplacian Eigenmaps
 
 # 5. Presentation/Slides 
 
