@@ -98,6 +98,8 @@ Directed Molecular Graph Generation,**, NIPS, 2018 [[pdf]](https://arxiv.org/pdf
 
 # 7. Workshops
 
+* **Representation Learning on Graphs and Manifolds** at ICLR 2019 [[link]](https://rlgm.github.io/) 
+
 * **Relational Representation Learning** at NeurIPS 2018 [[link]](https://r2learning.github.io/)
   - My paper: Image-Level Attentional Context Modeling using Nest Graph Neural Networks [[link]](https://arxiv.org/abs/1811.03830)
 
