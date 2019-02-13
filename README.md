@@ -83,6 +83,9 @@ Directed Molecular Graph Generation,**, NIPS, 2018 [[pdf]](https://arxiv.org/pdf
 - **Graph Embedding Methods (GEM)** [[code Keras]](https://github.com/palash1992/GEM) 
   * Node2vec
   * Laplacian Eigenmaps
+- **Spektral** [[code Keras]](https://github.com/danielegrattarola/spektral/)
+- **Chainer Cehmistry** [[code Chainer]](https://github.com/pfnet-research/chainer-chemistry)
+
 
 # 5. Presentation/Slides 
 
