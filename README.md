@@ -84,14 +84,20 @@ Directed Molecular Graph Generation,**, NIPS, 2018 [[pdf]](https://arxiv.org/pdf
   * Node2vec
   * Laplacian Eigenmaps
 - **Spektral** [[code Keras]](https://github.com/danielegrattarola/spektral/)
-- **Chainer Cehmistry** [[code Chainer]](https://github.com/pfnet-research/chainer-chemistry)
+- **Chainer Chemistry** [[code Chainer]](https://github.com/pfnet-research/chainer-chemistry)
 
 
 # 5. Presentation/Slides 
 
-- Weekly presentation on **Graph Neural Networks at MILA** [[presentation]](https://github.com/shagunsodhani/Graph-Reading-Group)
-- Presentation on **Relational Learning** by Petar Veličković [[presentation]](https://www.cl.cam.ac.uk/~pv273/slides/MILA-RN.pdf)
-- Presentation on **Adversarial learning meets graphs** by Petar Veličković [[presentation]](https://www.cl.cam.ac.uk/~pv273/slides/MILA-AdvGraph.pdf)
+* Weekly presentation on **Graph Neural Networks at MILA** [[presentation]](https://github.com/shagunsodhani/Graph-Reading-Group)
+* Presentation on **Relational Learning** by Petar Veličković [[presentation]](https://www.cl.cam.ac.uk/~pv273/slides/MILA-RN.pdf)
+* Presentation on **Adversarial learning meets graphs** by Petar Veličković [[presentation]](https://www.cl.cam.ac.uk/~pv273/slides/MILA-AdvGraph.pdf)
+* Presentation on **How Powerful are Graph Neural Networks?** by Jure 
+Leskovec [[presentation]](http://i.stanford.edu/~jure/pub/talks2/graphsage_gin-ita-feb19.pdf?fbclid=IwAR1rM7xiVmHpk6PJ1dMntYPz1odn1TQiOGYOZKpaLuuBjVb34LxwupioABw)
+  - Graph SAGE
+  - Hierarchical Graph Pooling
+  - Graph Isomorphism Networks
+
 
 # 6. Videos 
 
