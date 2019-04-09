@@ -10,12 +10,12 @@ I would continue adding papers to this roadmap.
 
 ---------------------------------------
 
-# 1. The long short story of the Graph Neural Network:
+# 1. Impactful Graph Neural Networks (chronological order):
 
 **[1]** M. Defferrard, X. Bresson, and P. Vandergheynst, **Convolutional Neural Networks on Graphs with Fast
-Localized Spectral Filtering,** NIPS, 2016 [[pdf]](https://arxiv.org/pdf/1606.09375.pdf) [[code]](https://github.com/mdeff/cnn_graph)
+Localized Spectral Filtering,** NIPS, 2016 [[pdf]](https://arxiv.org/pdf/1606.09375.pdf) [[code TensorFlow]](https://github.com/mdeff/cnn_graph)
 
-**[2]** N. Kipf and M. Welling, **Semi supervised classification with graph convolutional networks,** 2017, ICLR [[pdf]](https://arxiv.org/pdf/1609.02907.pdf)[[code]](https://github.com/tkipf/gcn)
+**[2]** N. Kipf and M. Welling, **Semi supervised classification with graph convolutional networks,** 2017, ICLR [[pdf]](https://arxiv.org/pdf/1609.02907.pdf)[[code TensorFlow]](https://github.com/tkipf/gcn)
 
 **[3]** A. Santoro, D. Raposo, D. G. T. Barrett, M. Malinowski, R. Pascanu, P. Battaglia, and T. Lillicrap,
 **A simple neural network module for relational reasoning,** NIPS, 2017 [[pdf]](https://arxiv.org/pdf/1706.01427.pdf) [[code PyTorch]](https://github.com/kimhc6028/relational-networks) [[code TensorFlow]](https://github.com/gitlimlab/Relation-Network-Tensorflow)
@@ -24,12 +24,14 @@ Localized Spectral Filtering,** NIPS, 2016 [[pdf]](https://arxiv.org/pdf/1606.09
 Quantum Chemistry,** ICML, 2017 [[pdf]](https://arxiv.org/pdf/1704.01212.pdf)
 
 **[5]** P. Veličković, G. Cucurull, A. Casanova, A. Romero, P. Liò, and Y. Bengio, **Graph Attention Networks,**
-ICLR, 2018 [[pdf]](https://arxiv.org/pdf/1710.10903.pdf)
+ICLR, 2018 [[pdf]](https://arxiv.org/pdf/1710.10903.pdf) [[code TensorFlow]](https://github.com/PetarV-/GAT).
 
 **[6]** K. Xu, W. Hu, J. Leskovec, S. Jegelka, **How Powerful are Graph Neural Networks ?,**
-ICLR, 2019 [[pdf]](https://arxiv.org/pdf/1810.00826.pdf)
+ICLR, 2019 [[pdf]](https://arxiv.org/pdf/1810.00826.pdf) [[code PyTorch]](https://github.com/weihua916/powerful-gnns)
 
-# 2. The short story: literature reviews 
+**[7]** Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, R Devon Hjelm, **Deep Graph Infomax** ICLR 2019 [[pdf]](https://arxiv.org/pdf/1809.10341.pdf) [[code PyTorch]](https://github.com/PetarV-/DGI).
+
+# 2. Literature Reviews 
 
 **[1]** P. W. Battaglia, J. B. Hamrick, V. Bapst, A. Sanchez-Gonzalez, V. Zambaldi, M. Malinowski, A. Tacchetti, D. Raposo, A. Santoro, R. Faulkner, C.  Gulcehre,  F.  Song,  A.  Ballard,  J.  Gilmer,  G.  Dahl,  A.  Vaswani, K.  Allen,  C.  Nash,  V.  Langston,  C.  Dyer,  N.  Heess,  D.  Wierstra, P. Kohli, M. Botvinick, O. Vinyals, Y. Li, and R. Pascanu, **Relational
 inductive  biases,  deep  learning,  and  graph  networks** [[pdf]](https://arxiv.org/pdf/1806.01261.pdf) [[code]](https://github.com/deepmind/graph_nets)
@@ -72,19 +74,19 @@ Directed Molecular Graph Generation,**, NIPS, 2018 [[pdf]](https://arxiv.org/pdf
 
 # 4. Libraries 
 
-- **GraphNets** by DeepMind [[code TensorFlow/Sonnet]](https://github.com/deepmind/graph_nets)
-- **Deep Graph Library (DGL)** [[code PyTorch]](https://github.com/dmlc/dgl)
-- **pytorch-geometric** [[code PyTorch]](https://github.com/rusty1s/pytorch_geometric). Provides implementation for:
+- **GraphNets** by DeepMind (written in TensorFlow/Sonnet) [[code]](https://github.com/deepmind/graph_nets)
+- **Deep Graph Library (DGL)** (written in PyTorch/MXNet) [[code]](https://github.com/dmlc/dgl)
+- **pytorch-geometric** (written in PyTorch) [[code]](https://github.com/rusty1s/pytorch_geometric). Provides implementation for:
   * GCN
   * GAT
   * Graph U-Net
   * Deep Graph InfoMax
   * GIN
-- **Graph Embedding Methods (GEM)** [[code Keras]](https://github.com/palash1992/GEM) 
+- **Graph Embedding Methods (GEM)** (written in Kera) [[code]](https://github.com/palash1992/GEM) 
   * Node2vec
   * Laplacian Eigenmaps
-- **Spektral** [[code Keras]](https://github.com/danielegrattarola/spektral/)
-- **Chainer Chemistry** [[code Chainer]](https://github.com/pfnet-research/chainer-chemistry)
+- **Spektral** (written in Keras) [[code]](https://github.com/danielegrattarola/spektral/)
+- **Chainer Chemistry** (written in Chainer) [[code]](https://github.com/pfnet-research/chainer-chemistry)
 
 
 # 5. Presentation/Slides 
