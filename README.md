@@ -87,7 +87,7 @@ Directed Molecular Graph Generation,**, NIPS, 2018 [[pdf]](https://arxiv.org/pdf
   * Laplacian Eigenmaps
 - **Spektral** (written in Keras) [[code]](https://github.com/danielegrattarola/spektral/)
 - **Chainer Chemistry** (written in Chainer) [[code]](https://github.com/pfnet-research/chainer-chemistry)
-
+- **PyTorch Big-Graph** (written in PyTorch) [[code]](https://github.com/facebookresearch/PyTorch-BigGraph?fbclid=IwAR0QbWESbygic26TW1b3pxHf0Jr2XBvQTI3kVYCIs7iRP-sE1DIubpAFwTo)
 
 # 5. Presentation/Slides 
 
