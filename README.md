@@ -131,6 +131,10 @@ Leskovec [[presentation]](http://i.stanford.edu/~jure/pub/talks2/graphsage_gin-i
 
 # 7. Workshops
 
+* **http://geometricdeeplearning.com/** at ICCV 2019 [[link]]()
+
+* **Learning and Reasoning with Graph-Structured Data** at ICML 2019 [[link]](https://graphreason.github.io/)
+
 * **Representation Learning on Graphs and Manifolds** at ICLR 2019 [[link]](https://rlgm.github.io/) 
 
 * **Relational Representation Learning** at NeurIPS 2018 [[link]](https://r2learning.github.io/)
