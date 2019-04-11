@@ -44,7 +44,19 @@ inductive  biases,  deep  learning,  and  graph  networks** [[pdf]](https://arxi
 
 # 3. Let's dig by topic:
 
-## 3.1 Pooling on graphs:
+## 3.1 GNN for Edge-Informative graphs:
+
+**[1]** M. Simonovsky and N. Komodakis. **Dynamic edge-conditioned filters in convolutional neu-
+ral networks on graphs**, 2017, CVPR.[[pdf]](https://arxiv.org/pdf/1704.02901.pdf)
+, 2017.
+
+**[2]** M. Schlichtkrull, T. N. Kipf, P. Bloem, R. van den Berg, I. Titov, M.
+Welling. **Modeling Relational Data with Graph Convolutional Networks**, 2018,In
+Extended Semantic Web Conference. [[pdf]](https://arxiv.org/pdf/1703.06103.pdf)
+
+**[3]** G. Jaume, A. Nguyen, M. Rodriguez, J-P. Thiran, M. Gabrani, **edGNN: A simple and powerful GNN for directed labeled graphs**, 2019, ICLR workshop on graphs and manifolds. 
+
+## 3.2 Pooling on graphs:
 
 **[1]** R. Ying, J. You, C. Morris, X. Ren, W. L. Hamilton, and J. Leskovec, **Hierarchical Graph Represen-
 tation Learning with Differentiable Pooling,** 2018, NIPS. [[pdf]](https://arxiv.org/pdf/1806.08804.pdf) [[code]](https://github.com/RexYing/diffpool)
@@ -53,24 +65,34 @@ tation Learning with Differentiable Pooling,** 2018, NIPS. [[pdf]](https://arxiv
 
 **[3]** M. Zhang, Z. Cui, M. Neumann, Y. Chen, **An End-to-End Deep Learning Architecture for Graph Classification**, AAAI, 2018 [[pdf]](https://www.cse.wustl.edu/~muhan/papers/AAAI_2018_DGCNN.pdf)
 
-## 3.2 Relational Reinforcement Learning:
+## 3.3 Relational Reinforcement Learning:
 
 **[1]** V. Zambaldi, D. Raposo, A. Santoro, V. Bapst, Y. Li, I. Babuschkin, K. Tuyls, D. Reichert, T. Lillicrap,
 E. Lockhart, M. Shanahan, V. Langston, R. Pascanu, M. Botvinick, O. Vinyals, and P. Battaglia,
 **Relational Deep Reinforcement Learning,** 2018 [[pdf]](https://arxiv.org/pdf/1806.01830.pdf)
 
-## 3.3 Generative models of graphs:
+## 3.5 Generative models of graphs:
 
 **[1]** N. De Cao and T. Kipf, **MolGAN: An implicit generative model for small molecular graphs,** 2018 [[pdf]](https://arxiv.org/pdf/1805.11973.pdf)
 
 **[2]**  J. You, B. Liu, R. Ying, V. Pande, and J. Leskovec, **Graph Convolutional Policy Network for Goal-
 Directed Molecular Graph Generation,**, NIPS, 2018 [[pdf]](https://arxiv.org/pdf/1806.02473.pdf)
 
-## 3.4 Knowledge Graphs
+## 3.6 Scene Understanding (e.g., Scene Graph Generation)
+
+ **[1]** G. Jaume, B. Bozorgtabar, H. Ekenel, J-P. Thiran, M. Gabrani, **Image-Level Attentional Context Modeling using Nest Graph Neural Networks**, NeuIPS workshop on Relational Representation Learning [[pdf]](https://arxiv.org/abs/1811.03830)
+ 
+ **[2]** J. Yang, J. Lu, S. Lee, D. Batra, and D. Parikh. **Graph R-CNN for Scene Graph Generation**,
+ECCV, 2018. [[pdf]](https://arxiv.org/pdf/1808.00191.pdf)
+
+**[3]** D. Xu, Y. Zhu, C. B. Choy, and L. Fei-Fei. **Scene graph generation by iterative message passing**,
+CVPR,2 017. [[pdf]](https://arxiv.org/pdf/1701.02426.pdf)
+
+## 3.6 Knowledge Graphs
 
 **[1]** M. Nickel, K. Murphy, V. Tresp, E. Gabrilovich, **A Review of Relational Machine Learning for Knowledge Graphs** 2015 [[pdf]](https://arxiv.org/pdf/1503.00759.pdf)
 
-## 3.5 More to come 
+## 3.xx More to come 
 
 # 4. Libraries 
 
@@ -82,7 +104,7 @@ Directed Molecular Graph Generation,**, NIPS, 2018 [[pdf]](https://arxiv.org/pdf
   * Graph U-Net
   * Deep Graph InfoMax
   * GIN
-- **Graph Embedding Methods (GEM)** (written in Kera) [[code]](https://github.com/palash1992/GEM) 
+- **Graph Embedding Methods (GEM)** (written in Keras) [[code]](https://github.com/palash1992/GEM) 
   * Node2vec
   * Laplacian Eigenmaps
 - **Spektral** (written in Keras) [[code]](https://github.com/danielegrattarola/spektral/)
@@ -112,7 +134,6 @@ Leskovec [[presentation]](http://i.stanford.edu/~jure/pub/talks2/graphsage_gin-i
 * **Representation Learning on Graphs and Manifolds** at ICLR 2019 [[link]](https://rlgm.github.io/) 
 
 * **Relational Representation Learning** at NeurIPS 2018 [[link]](https://r2learning.github.io/)
-  - My paper: Image-Level Attentional Context Modeling using Nest Graph Neural Networks [[link]](https://arxiv.org/abs/1811.03830)
 
 * **Representation Learning on Networks** by Jure Leskovec [[link]](http://snap.stanford.edu/proj/embeddings-www/)
   - Network/Relational Representation Learning
