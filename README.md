@@ -131,7 +131,7 @@ Leskovec [[presentation]](http://i.stanford.edu/~jure/pub/talks2/graphsage_gin-i
 
 # 7. Workshops
 
-* **http://geometricdeeplearning.com/** at ICCV 2019 [[link]]()
+* **Geometry meets deep learning** at ICCV 2019 [[link]](http://geometricdeeplearning.com/)
 
 * **Learning and Reasoning with Graph-Structured Data** at ICML 2019 [[link]](https://graphreason.github.io/)
 
