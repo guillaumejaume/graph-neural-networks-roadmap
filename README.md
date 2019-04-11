@@ -48,22 +48,21 @@ inductive  biases,  deep  learning,  and  graph  networks** [[pdf]](https://arxi
 
 **[1]** M. Simonovsky and N. Komodakis. **Dynamic edge-conditioned filters in convolutional neu-
 ral networks on graphs**, 2017, CVPR.[[pdf]](https://arxiv.org/pdf/1704.02901.pdf)
-, 2017.
 
 **[2]** M. Schlichtkrull, T. N. Kipf, P. Bloem, R. van den Berg, I. Titov, M.
-Welling. **Modeling Relational Data with Graph Convolutional Networks**, 2018,In
+Welling. **Modeling Relational Data with Graph Convolutional Networks**, 2018, In
 Extended Semantic Web Conference. [[pdf]](https://arxiv.org/pdf/1703.06103.pdf)
 
-**[3]** G. Jaume, A. Nguyen, M. Rodriguez, J-P. Thiran, M. Gabrani, **edGNN: A simple and powerful GNN for directed labeled graphs**, 2019, ICLR workshop on graphs and manifolds. 
+**[3]** G. Jaume, A. Nguyen, M. Rodriguez, J-P. Thiran, M. Gabrani, **edGNN: A simple and powerful GNN for directed labeled graphs**, 2019, ICLR workshop on graphs and manifolds. [[code]](https://github.com/guillaumejaume/edGNN)
 
 ## 3.2 Pooling on graphs:
 
-**[1]** R. Ying, J. You, C. Morris, X. Ren, W. L. Hamilton, and J. Leskovec, **Hierarchical Graph Represen-
+**[1]** M. Zhang, Z. Cui, M. Neumann, Y. Chen, **An End-to-End Deep Learning Architecture for Graph Classification**, AAAI, 2018 [[pdf]](https://www.cse.wustl.edu/~muhan/papers/AAAI_2018_DGCNN.pdf)
+
+**[2]** R. Ying, J. You, C. Morris, X. Ren, W. L. Hamilton, and J. Leskovec, **Hierarchical Graph Represen-
 tation Learning with Differentiable Pooling,** 2018, NIPS. [[pdf]](https://arxiv.org/pdf/1806.08804.pdf) [[code]](https://github.com/RexYing/diffpool)
 
-**[2]** Anonymous Review, **GRAPH U-NET,** to be presented at ICLR 2019 [[pdf]](https://openreview.net/pdf?id=HJePRoAct7) 
-
-**[3]** M. Zhang, Z. Cui, M. Neumann, Y. Chen, **An End-to-End Deep Learning Architecture for Graph Classification**, AAAI, 2018 [[pdf]](https://www.cse.wustl.edu/~muhan/papers/AAAI_2018_DGCNN.pdf)
+**[3]** Anonymous Review, **GRAPH U-NET,** to be presented at ICLR 2019 [[pdf]](https://openreview.net/pdf?id=HJePRoAct7) 
 
 ## 3.3 Relational Reinforcement Learning:
 
@@ -80,13 +79,13 @@ Directed Molecular Graph Generation,**, NIPS, 2018 [[pdf]](https://arxiv.org/pdf
 
 ## 3.6 Scene Understanding (e.g., Scene Graph Generation)
 
- **[1]** G. Jaume, B. Bozorgtabar, H. Ekenel, J-P. Thiran, M. Gabrani, **Image-Level Attentional Context Modeling using Nest Graph Neural Networks**, NeuIPS workshop on Relational Representation Learning [[pdf]](https://arxiv.org/abs/1811.03830)
- 
- **[2]** J. Yang, J. Lu, S. Lee, D. Batra, and D. Parikh. **Graph R-CNN for Scene Graph Generation**,
+**[1]** D. Xu, Y. Zhu, C. B. Choy, and L. Fei-Fei. **Scene graph generation by iterative message passing**,
+CVPR,2017. [[pdf]](https://arxiv.org/pdf/1701.02426.pdf)
+
+**[2]** J. Yang, J. Lu, S. Lee, D. Batra, and D. Parikh. **Graph R-CNN for Scene Graph Generation**,
 ECCV, 2018. [[pdf]](https://arxiv.org/pdf/1808.00191.pdf)
 
-**[3]** D. Xu, Y. Zhu, C. B. Choy, and L. Fei-Fei. **Scene graph generation by iterative message passing**,
-CVPR,2 017. [[pdf]](https://arxiv.org/pdf/1701.02426.pdf)
+**[3]** G. Jaume, B. Bozorgtabar, H. Ekenel, J-P. Thiran, M. Gabrani, **Image-Level Attentional Context Modeling using Nest Graph Neural Networks**, NeuIPS workshop on Relational Representation Learning [[pdf]](https://arxiv.org/abs/1811.03830)
 
 ## 3.6 Knowledge Graphs
 
