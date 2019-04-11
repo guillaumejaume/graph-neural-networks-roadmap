@@ -75,7 +75,9 @@ E. Lockhart, M. Shanahan, V. Langston, R. Pascanu, M. Botvinick, O. Vinyals, and
 **[1]** N. De Cao and T. Kipf, **MolGAN: An implicit generative model for small molecular graphs,** 2018 [[pdf]](https://arxiv.org/pdf/1805.11973.pdf)
 
 **[2]**  J. You, B. Liu, R. Ying, V. Pande, and J. Leskovec, **Graph Convolutional Policy Network for Goal-
-Directed Molecular Graph Generation,**, NIPS, 2018 [[pdf]](https://arxiv.org/pdf/1806.02473.pdf)
+Directed Molecular Graph Generation**, NIPS, 2018 [[pdf]](https://arxiv.org/pdf/1806.02473.pdf)
+
+**[3]** M. Simonovsky, N. Komodakis **GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders**, 2018. [[pdf]](https://arxiv.org/pdf/1802.03480.pdf)
 
 ## 3.6 Scene Understanding (e.g., Scene Graph Generation)
 
