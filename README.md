@@ -63,9 +63,7 @@ Extended Semantic Web Conference. [[pdf]](https://arxiv.org/pdf/1703.06103.pdf)
 
 **[3]** Anonymous Review, **GRAPH U-NET,** to be presented at ICLR 2019 [[pdf]](https://openreview.net/pdf?id=HJePRoAct7) 
 
-**[4]** R. L. Murphy, B. Srinivasan, V. Rao, B. Ribeiro, **Relational Pooling for Graph Representations,** 2019 [[pdf]](https://arxiv.org/pdf/1903.02541.pdf) 
-
-**[5]** J. Lee, I. Lee, J. Kang, **Self-Attention Graph Pooling,** ICML, 2019 [[pdf]](https://arxiv.org/pdf/1904.08082.pdf) 
+**[4]** J. Lee, I. Lee, J. Kang, **Self-Attention Graph Pooling,** ICML, 2019 [[pdf]](https://arxiv.org/pdf/1904.08082.pdf) 
 
 ## 3.3 Relational Reinforcement Learning:
 
