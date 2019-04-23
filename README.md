@@ -53,7 +53,7 @@ ral networks on graphs**, 2017, CVPR.[[pdf]](https://arxiv.org/pdf/1704.02901.pd
 Welling. **Modeling Relational Data with Graph Convolutional Networks**, 2018, In
 Extended Semantic Web Conference. [[pdf]](https://arxiv.org/pdf/1703.06103.pdf)
 
-**[3]** G. Jaume, A. Nguyen, M. Rodriguez, J-P. Thiran, M. Gabrani, **edGNN: A simple and powerful GNN for directed labeled graphs**, 2019, ICLR workshop on graphs and manifolds. [[code]](https://github.com/guillaumejaume/edGNN)
+**[3]** G. Jaume, A. Nguyen, M. Rodriguez, J-P. Thiran, M. Gabrani, **edGNN: A simple and powerful GNN for directed labeled graphs**, 2019, ICLR workshop on graphs and manifolds. [[pdf]](https://arxiv.org/pdf/1904.08745.pdf) [[code]](https://github.com/guillaumejaume/edGNN)
 
 ## 3.2 Pooling on graphs:
 
