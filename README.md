@@ -59,10 +59,13 @@ Extended Semantic Web Conference. [[pdf]](https://arxiv.org/pdf/1703.06103.pdf)
 
 **[1]** M. Zhang, Z. Cui, M. Neumann, Y. Chen, **An End-to-End Deep Learning Architecture for Graph Classification**, AAAI, 2018 [[pdf]](https://www.cse.wustl.edu/~muhan/papers/AAAI_2018_DGCNN.pdf)
 
-**[2]** R. Ying, J. You, C. Morris, X. Ren, W. L. Hamilton, and J. Leskovec, **Hierarchical Graph Represen-
-tation Learning with Differentiable Pooling,** 2018, NIPS. [[pdf]](https://arxiv.org/pdf/1806.08804.pdf) [[code]](https://github.com/RexYing/diffpool)
+**[2]** R. Ying, J. You, C. Morris, X. Ren, W. L. Hamilton, and J. Leskovec, **Hierarchical Graph Representation Learning with Differentiable Pooling,** 2018, NIPS. [[pdf]](https://arxiv.org/pdf/1806.08804.pdf) [[code]](https://github.com/RexYing/diffpool)
 
 **[3]** Anonymous Review, **GRAPH U-NET,** to be presented at ICLR 2019 [[pdf]](https://openreview.net/pdf?id=HJePRoAct7) 
+
+**[4]** R. L. Murphy, B. Srinivasan, V. Rao, B. Ribeiro, **Relational Pooling for Graph Representations,** 2019 [[pdf]](https://arxiv.org/pdf/1903.02541.pdf) 
+
+**[5]** J. Lee, I. Lee, J. Kang, **Self-Attention Graph Pooling,** ICML, 2019 [[pdf]](https://arxiv.org/pdf/1904.08082.pdf) 
 
 ## 3.3 Relational Reinforcement Learning:
 
@@ -78,6 +81,8 @@ E. Lockhart, M. Shanahan, V. Langston, R. Pascanu, M. Botvinick, O. Vinyals, and
 Directed Molecular Graph Generation**, NIPS, 2018 [[pdf]](https://arxiv.org/pdf/1806.02473.pdf)
 
 **[3]** M. Simonovsky, N. Komodakis **GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders**, 2018. [[pdf]](https://arxiv.org/pdf/1802.03480.pdf)
+
+**[4]** A. Grover, A. Zweig, S. Ermon, **Graphite: Iterative Generative Modeling of Graphs**, ICML, 2019. [[pdf]](https://arxiv.org/pdf/1803.10459.pdf)
 
 ## 3.6 Scene Understanding (e.g., Scene Graph Generation)
 
