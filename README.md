@@ -80,7 +80,9 @@ Directed Molecular Graph Generation**, NIPS, 2018 [[pdf]](https://arxiv.org/pdf/
 
 **[3]** M. Simonovsky, N. Komodakis **GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders**, 2018. [[pdf]](https://arxiv.org/pdf/1802.03480.pdf)
 
-**[4]** A. Grover, A. Zweig, S. Ermon, **Graphite: Iterative Generative Modeling of Graphs**, ICML, 2019. [[pdf]](https://arxiv.org/pdf/1803.10459.pdf)
+**[4]** A. Grover, A. Zweig, S. Ermon, **Graphite: Iterative Generative Modeling of Graphs**, ICML, 2019. [[pdf]](https://arxiv.org/pdf/1803.10459.pdf) [[code TensorFlow]](https://github.com/ermongroup/graphite)
+
+**[5]** T. N. Kipf and M. Welling., **Variational graph auto-encoders.,** 2016, Bayesian DL, NIPS [[pdf]](https://arxiv.org/pdf/1611.07308.pdf)
 
 ## 3.6 Scene Understanding (e.g., Scene Graph Generation)
 
