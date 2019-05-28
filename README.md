@@ -1,12 +1,8 @@
 # Deep Learning on Graphs: a roadmap 
 
-This roadmap explores the following topics:
+This roadmap explores the latest advances made in the field of deep learning on graphs. After listing the main papers that set the foundations of DL on graphs and Graph Neural Networks, we dig in each sub-topic. Sub-topics include graph VAE, generative model of graphs, theoretical studies of the expressiveness power of GNNs, edge-informative graphs etc.. 
 
-- Graph Convolutional Networks
-- Graph Neural Networks
-- Relation Networks
-
-I would continue adding papers to this roadmap.
+I would continue adding papers to this roadmap. Feel free to suggest new papers that are missing in this list. 
 
 ---------------------------------------
 
@@ -120,6 +116,10 @@ ECCV, 2018. [[pdf]](https://arxiv.org/pdf/1808.00191.pdf)
 ## 3.9 Knowledge Graphs
 
 **[1]** M. Nickel, K. Murphy, V. Tresp, E. Gabrilovich, **A Review of Relational Machine Learning for Knowledge Graphs** 2015 [[pdf]](https://arxiv.org/pdf/1503.00759.pdf)
+
+## 3.10 Neural Architecture Search with GNNs
+
+**[1]** C. Zhang, M. Ren, R. Urtasun, **Graph Hyper Networks for Neural Architecture Search**, ICLR 2019 [[pdf]](https://openreview.net/pdf?id=rkgW0oA9FX)
 
 ## 3.xx More to come 
 
