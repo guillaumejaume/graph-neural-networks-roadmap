@@ -54,6 +54,8 @@ Extended Semantic Web Conference. [[pdf]](https://arxiv.org/pdf/1703.06103.pdf)
 
 **[1]** Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, R Devon Hjelm, **Deep Graph Infomax** ICLR 2019 [[pdf]](https://arxiv.org/pdf/1809.10341.pdf) [[code PyTorch]](https://github.com/PetarV-/DGI).
 
+**[2]** Graph auto-encoder and generative graph modeling. See Section 3.6 & 3.7
+
 ## 3.3 Characterization of Graph Neural Networks
 
 **[1]** K. Xu, W. Hu, J. Leskovec, S. Jegelka, **How Powerful are Graph Neural Networks ?,**
