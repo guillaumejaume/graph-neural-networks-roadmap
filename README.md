@@ -13,12 +13,12 @@ I would continue adding papers to this roadmap.
 # 1. Impactful Graph Neural Networks (chronological order):
 
 **[1]** M. Defferrard, X. Bresson, and P. Vandergheynst, **Convolutional Neural Networks on Graphs with Fast
-Localized Spectral Filtering,** NIPS, 2016 [[pdf]](https://arxiv.org/pdf/1606.09375.pdf) [[code TensorFlow]](https://github.com/mdeff/cnn_graph)
+Localized Spectral Filtering,** NeurIPS, 2016 [[pdf]](https://arxiv.org/pdf/1606.09375.pdf) [[code TensorFlow]](https://github.com/mdeff/cnn_graph)
 
 **[2]** N. Kipf and M. Welling, **Semi supervised classification with graph convolutional networks,** 2017, ICLR [[pdf]](https://arxiv.org/pdf/1609.02907.pdf)[[code TensorFlow]](https://github.com/tkipf/gcn)
 
 **[3]** A. Santoro, D. Raposo, D. G. T. Barrett, M. Malinowski, R. Pascanu, P. Battaglia, and T. Lillicrap,
-**A simple neural network module for relational reasoning,** NIPS, 2017 [[pdf]](https://arxiv.org/pdf/1706.01427.pdf) [[code PyTorch]](https://github.com/kimhc6028/relational-networks) [[code TensorFlow]](https://github.com/gitlimlab/Relation-Network-Tensorflow)
+**A simple neural network module for relational reasoning,** NeurIPS, 2017 [[pdf]](https://arxiv.org/pdf/1706.01427.pdf) [[code PyTorch]](https://github.com/kimhc6028/relational-networks) [[code TensorFlow]](https://github.com/gitlimlab/Relation-Network-Tensorflow)
 
 **[4]** J. Gilmer, S. S. Schoenholz, P. F. Riley, O. Vinyals, and G. E. Dahl, **Neural Message Passing for
 Quantum Chemistry,** ICML, 2017 [[pdf]](https://arxiv.org/pdf/1704.01212.pdf)
@@ -75,7 +75,7 @@ submitted to NeurIPS, 2019 [[pdf]](https://arxiv.org/pdf/1905.09550.pdf)
 
 **[1]** M. Zhang, Z. Cui, M. Neumann, Y. Chen, **An End-to-End Deep Learning Architecture for Graph Classification**, AAAI, 2018 [[pdf]](https://www.cse.wustl.edu/~muhan/papers/AAAI_2018_DGCNN.pdf)
 
-**[2]** R. Ying, J. You, C. Morris, X. Ren, W. L. Hamilton, and J. Leskovec, **Hierarchical Graph Representation Learning with Differentiable Pooling,** 2018, NIPS. [[pdf]](https://arxiv.org/pdf/1806.08804.pdf) [[code]](https://github.com/RexYing/diffpool)
+**[2]** R. Ying, J. You, C. Morris, X. Ren, W. L. Hamilton, and J. Leskovec, **Hierarchical Graph Representation Learning with Differentiable Pooling,** 2018, NeurIPS. [[pdf]](https://arxiv.org/pdf/1806.08804.pdf) [[code]](https://github.com/RexYing/diffpool)
 
 **[3]** Anonymous Review, **GRAPH U-NET,** to be presented at ICLR 2019 [[pdf]](https://openreview.net/pdf?id=HJePRoAct7) 
 
@@ -91,16 +91,19 @@ E. Lockhart, M. Shanahan, V. Langston, R. Pascanu, M. Botvinick, O. Vinyals, and
 
 **[1]** N. De Cao and T. Kipf, **MolGAN: An implicit generative model for small molecular graphs,** 2018 [[pdf]](https://arxiv.org/pdf/1805.11973.pdf)
 
-**[2]**  J. You, B. Liu, R. Ying, V. Pande, and J. Leskovec, **Graph Convolutional Policy Network for Goal-
-Directed Molecular Graph Generation**, NIPS, 2018 [[pdf]](https://arxiv.org/pdf/1806.02473.pdf)
+**[2]**  J. You, B. Liu, R. Ying, V. Pande, and J. Leskovec, **Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation**, NeurIPS, 2018 [[pdf]](https://arxiv.org/pdf/1806.02473.pdf)
 
 **[3]** M. Simonovsky, N. Komodakis **GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders**, 2018. [[pdf]](https://arxiv.org/pdf/1802.03480.pdf)
 
-**[4]** A. Grover, A. Zweig, S. Ermon, **Graphite: Iterative Generative Modeling of Graphs**, ICML, 2019. [[pdf]](https://arxiv.org/pdf/1803.10459.pdf) [[code TensorFlow]](https://github.com/ermongroup/graphite)
+**[4]** W. Jin, R. Barzilay, T. Jaakkola, **Junction Tree Variational Autoencoder for Molecular Graph Generation**, ICML, 2018. [[pdf]](https://arxiv.org/pdf/1802.04364.pdf) [[code PyTorch]](https://github.com/wengong-jin/icml18-jtnn)
+
+**[5]** Q. Liu, M. Allamanis, M. Brockschmidt, A. L. Gaunt **Constrained Graph Variational Autoencoders for Molecule Design**, NeuIPS, 2018. [[pdf]](https://arxiv.org/pdf/1802.03480.pdf)
+
+**[6]** A. Grover, A. Zweig, S. Ermon, **Graphite: Iterative Generative Modeling of Graphs**, ICML, 2019. [[pdf]](https://arxiv.org/pdf/1803.10459.pdf) [[code TensorFlow]](https://github.com/ermongroup/graphite)
 
 ## 3.7 Graph Encoder-Decoder 
 
-**[1]** T. N. Kipf and M. Welling., **Variational graph auto-encoders,** 2016, Bayesian DL, NIPS [[pdf]](https://arxiv.org/pdf/1611.07308.pdf)
+**[1]** T. N. Kipf and M. Welling., **Variational graph auto-encoders,** 2016, Bayesian DL, NeurIPS [[pdf]](https://arxiv.org/pdf/1611.07308.pdf)
 
 **[2]** T. N. Kipf, E. Fetaya, K. Wang, M. Welling, R. Zemel, **Neural Relational Inference for Interacting Systems,** ICML, 2018 [[pdf]](https://arxiv.org/pdf/1611.07308.pdf)
 
