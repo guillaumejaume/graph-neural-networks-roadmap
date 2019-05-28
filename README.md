@@ -26,11 +26,6 @@ Quantum Chemistry,** ICML, 2017 [[pdf]](https://arxiv.org/pdf/1704.01212.pdf)
 **[5]** P. Veličković, G. Cucurull, A. Casanova, A. Romero, P. Liò, and Y. Bengio, **Graph Attention Networks,**
 ICLR, 2018 [[pdf]](https://arxiv.org/pdf/1710.10903.pdf) [[code TensorFlow]](https://github.com/PetarV-/GAT).
 
-**[6]** K. Xu, W. Hu, J. Leskovec, S. Jegelka, **How Powerful are Graph Neural Networks ?,**
-ICLR, 2019 [[pdf]](https://arxiv.org/pdf/1810.00826.pdf) [[code PyTorch]](https://github.com/weihua916/powerful-gnns)
-
-**[7]** Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, R Devon Hjelm, **Deep Graph Infomax** ICLR 2019 [[pdf]](https://arxiv.org/pdf/1809.10341.pdf) [[code PyTorch]](https://github.com/PetarV-/DGI).
-
 # 2. Literature Reviews 
 
 **[1]** P. W. Battaglia, J. B. Hamrick, V. Bapst, A. Sanchez-Gonzalez, V. Zambaldi, M. Malinowski, A. Tacchetti, D. Raposo, A. Santoro, R. Faulkner, C.  Gulcehre,  F.  Song,  A.  Ballard,  J.  Gilmer,  G.  Dahl,  A.  Vaswani, K.  Allen,  C.  Nash,  V.  Langston,  C.  Dyer,  N.  Heess,  D.  Wierstra, P. Kohli, M. Botvinick, O. Vinyals, Y. Li, and R. Pascanu, **Relational
@@ -55,7 +50,26 @@ Extended Semantic Web Conference. [[pdf]](https://arxiv.org/pdf/1703.06103.pdf)
 
 **[3]** G. Jaume, A. Nguyen, M. Rodriguez, J-P. Thiran, M. Gabrani, **edGNN: A simple and powerful GNN for directed labeled graphs**, 2019, ICLR workshop on graphs and manifolds. [[pdf]](https://arxiv.org/pdf/1904.08745.pdf) [[code]](https://github.com/guillaumejaume/edGNN)
 
-## 3.2 Pooling on graphs:
+## 3.2 Unsupervised Graph Neural Networks
+
+**[1]** Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, R Devon Hjelm, **Deep Graph Infomax** ICLR 2019 [[pdf]](https://arxiv.org/pdf/1809.10341.pdf) [[code PyTorch]](https://github.com/PetarV-/DGI).
+
+## 3.3 Characterization of Graph Neural Networks
+
+**[1]** K. Xu, W. Hu, J. Leskovec, S. Jegelka, **How Powerful are Graph Neural Networks ?,**
+ICLR, 2019 [[pdf]](https://arxiv.org/pdf/1810.00826.pdf) [[code PyTorch]](https://github.com/weihua916/powerful-gnns)
+
+**[2]** C. Morris, M. Ritzert, M. Fey , W. L. Hamilton, J. Lenssen, G. Rattan, M. Grohe, **Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks,**
+AAAI, 2018 [[pdf]](https://arxiv.org/pdf/1810.02244.pdf) [[code PyTorch]](https://github.com/chrsmrrs/k-gnn)
+
+**[3]** F. Wu, T. Zhang, A. Holanda de Souza Jr., C. Fifty, T. Yu, K. Q. Weinberger, **Simplifying Graph Convolutional Networks,**
+ICML, 2019 [[pdf]](https://arxiv.org/pdf/1902.07153.pdf)
+
+**[4]** H. NT, T. Maehara, **Revisiting Graph Neural Networks:
+All We Have is Low-Pass Filters,**
+submitted to NeurIPS, 2019 [[pdf]](https://arxiv.org/pdf/1905.09550.pdf)
+
+## 3.4 Pooling on graphs:
 
 **[1]** M. Zhang, Z. Cui, M. Neumann, Y. Chen, **An End-to-End Deep Learning Architecture for Graph Classification**, AAAI, 2018 [[pdf]](https://www.cse.wustl.edu/~muhan/papers/AAAI_2018_DGCNN.pdf)
 
@@ -65,13 +79,13 @@ Extended Semantic Web Conference. [[pdf]](https://arxiv.org/pdf/1703.06103.pdf)
 
 **[4]** J. Lee, I. Lee, J. Kang, **Self-Attention Graph Pooling,** ICML, 2019 [[pdf]](https://arxiv.org/pdf/1904.08082.pdf) 
 
-## 3.3 Relational Reinforcement Learning:
+## 3.5 Relational Reinforcement Learning:
 
 **[1]** V. Zambaldi, D. Raposo, A. Santoro, V. Bapst, Y. Li, I. Babuschkin, K. Tuyls, D. Reichert, T. Lillicrap,
 E. Lockhart, M. Shanahan, V. Langston, R. Pascanu, M. Botvinick, O. Vinyals, and P. Battaglia,
 **Relational Deep Reinforcement Learning,** 2018 [[pdf]](https://arxiv.org/pdf/1806.01830.pdf)
 
-## 3.5 Generative models of graphs:
+## 3.6 Generative models of graphs:
 
 **[1]** N. De Cao and T. Kipf, **MolGAN: An implicit generative model for small molecular graphs,** 2018 [[pdf]](https://arxiv.org/pdf/1805.11973.pdf)
 
@@ -82,9 +96,13 @@ Directed Molecular Graph Generation**, NIPS, 2018 [[pdf]](https://arxiv.org/pdf/
 
 **[4]** A. Grover, A. Zweig, S. Ermon, **Graphite: Iterative Generative Modeling of Graphs**, ICML, 2019. [[pdf]](https://arxiv.org/pdf/1803.10459.pdf) [[code TensorFlow]](https://github.com/ermongroup/graphite)
 
-**[5]** T. N. Kipf and M. Welling., **Variational graph auto-encoders.,** 2016, Bayesian DL, NIPS [[pdf]](https://arxiv.org/pdf/1611.07308.pdf)
+## 3.7 Graph Encoder-Decoder 
 
-## 3.6 Scene Understanding (e.g., Scene Graph Generation)
+**[1]** T. N. Kipf and M. Welling., **Variational graph auto-encoders,** 2016, Bayesian DL, NIPS [[pdf]](https://arxiv.org/pdf/1611.07308.pdf)
+
+**[2]** T. N. Kipf, E. Fetaya, K. Wang, M. Welling, R. Zemel, **Neural Relational Inference for Interacting Systems,** ICML, 2018 [[pdf]](https://arxiv.org/pdf/1611.07308.pdf)
+
+## 3.8 Scene Understanding (e.g., Scene Graph Generation)
 
 **[1]** D. Xu, Y. Zhu, C. B. Choy, and L. Fei-Fei. **Scene graph generation by iterative message passing**,
 CVPR,2017. [[pdf]](https://arxiv.org/pdf/1701.02426.pdf)
@@ -94,7 +112,7 @@ ECCV, 2018. [[pdf]](https://arxiv.org/pdf/1808.00191.pdf)
 
 **[3]** G. Jaume, B. Bozorgtabar, H. Ekenel, J-P. Thiran, M. Gabrani, **Image-Level Attentional Context Modeling using Nest Graph Neural Networks**, NeuIPS workshop on Relational Representation Learning [[pdf]](https://arxiv.org/abs/1811.03830)
 
-## 3.6 Knowledge Graphs
+## 3.9 Knowledge Graphs
 
 **[1]** M. Nickel, K. Murphy, V. Tresp, E. Gabrilovich, **A Review of Relational Machine Learning for Knowledge Graphs** 2015 [[pdf]](https://arxiv.org/pdf/1503.00759.pdf)
 
@@ -136,6 +154,13 @@ Leskovec [[presentation]](http://i.stanford.edu/~jure/pub/talks2/graphsage_gin-i
 - **Large-scale Graph Representation Learning** by Jure Leskovec [[video]](https://www.youtube.com/watch?v=oQL4E1gK3VU)
 
 # 7. Workshops
+
+* **Geometry and Learning from Data in 3D and Beyond** at IPAM 2019 [[link]](http://www.ipam.ucla.edu/programs/long-programs/geometry-and-learning-from-data-in-3d-and-beyond/)
+  - [Geometry and Learning from Data Tutorials](https://www.ipam.ucla.edu/programs/workshops/geometry-and-learning-from-data-tutorials/)
+  - [Workshop I: Geometric Processing](https://www.ipam.ucla.edu/programs/workshops/workshop-i-geometric-processing/)
+  - [Workshop II: Shape Analysis](https://www.ipam.ucla.edu/programs/workshops/workshop-ii-shape-analysis/)
+  - [Workshop III: Geometry of Big Data](https://www.ipam.ucla.edu/programs/workshops/workshop-iii-geometry-of-big-data/)
+  - [Workshop IV: Deep Geometric Learning of Big Data and Applications](https://www.ipam.ucla.edu/programs/workshops/workshop-iv-deep-geometric-learning-of-big-data-and-applications/)
 
 * **Geometry meets deep learning** at ICCV 2019 [[link]](http://geometricdeeplearning.com/)
 
