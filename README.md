@@ -50,7 +50,9 @@ Extended Semantic Web Conference. [[pdf]](https://arxiv.org/pdf/1703.06103.pdf)
 
 **[1]** Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, R Devon Hjelm, **Deep Graph Infomax** ICLR 2019 [[pdf]](https://arxiv.org/pdf/1809.10341.pdf) [[code PyTorch]](https://github.com/PetarV-/DGI).
 
-**[2]** Graph auto-encoder and generative graph modeling. See Section 3.6 & 3.7
+**[2]** Weihua Hu, Bowen Liu, Joseph Gomes, Marinka Zitnik, Percy Liang, Vijay S. Pande, Jure Leskovec, **Pre-training Graph Neural Networks** submitted to NeuIPS 2019 [[pdf]](https://arxiv.org/pdf/1905.12265.pdf).
+
+**[3]** Graph auto-encoder and generative graph modeling. See Section 3.6 & 3.7
 
 ## 3.3 Characterization of Graph Neural Networks
 
@@ -101,7 +103,7 @@ E. Lockhart, M. Shanahan, V. Langston, R. Pascanu, M. Botvinick, O. Vinyals, and
 
 **[8]** A. Grover, A. Zweig, S. Ermon, **Graphite: Iterative Generative Modeling of Graphs**, ICML, 2019. [[pdf]](https://arxiv.org/pdf/1803.10459.pdf) [[code TensorFlow]](https://github.com/ermongroup/graphite)
 
-## 3.7 Graph Encoder-Decoder 
+## 3.7 Graph Autoencoders
 
 **[1]** T. N. Kipf and M. Welling., **Variational graph auto-encoders,** 2016, Bayesian DL, NeurIPS [[pdf]](https://arxiv.org/pdf/1611.07308.pdf)
 
