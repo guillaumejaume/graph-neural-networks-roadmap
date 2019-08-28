@@ -1,6 +1,6 @@
 # Deep Learning on Graphs: a roadmap 
 
-This roadmap explores the latest advances made in the field of deep learning on graphs. After listing the main papers that set the foundations of DL on graphs and Graph Neural Networks, we dig in each sub-topic. Sub-topics include graph VAE, generative model of graphs, theoretical studies of the expressiveness power of GNNs, edge-informative graphs etc.. 
+This roadmap explores the latest advances made in the field of deep learning on graphs. After listing the main papers that set the foundations of DL on graphs and Graph Neural Networks, we dig in various sub-topics. Sub-topics include graph VAE, generative model of graphs, theoretical studies of the expressiveness power of GNNs, edge-informative graphs etc.. 
 
 I would continue adding papers to this roadmap. Feel free to suggest new papers that are missing in this list. 
 
