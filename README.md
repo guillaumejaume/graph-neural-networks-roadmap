@@ -69,6 +69,8 @@ ICML, 2019 [[pdf]](https://arxiv.org/pdf/1902.07153.pdf)
 All We Have is Low-Pass Filters,**
 submitted to NeurIPS, 2019 [[pdf]](https://arxiv.org/pdf/1905.09550.pdf)
 
+**[5]** N. Dehmamy,A-L Barabási, R. Yu, **Understanding the Representation Power of GraphNeural Networks in Learning Graph Topology,** NeurIPS, 2019 [[pdf]](https://arxiv.org/pdf/1907.05008.pdf)
+
 ## 3.4 Pooling on graphs:
 
 **[1]** M. Zhang, Z. Cui, M. Neumann, Y. Chen, **An End-to-End Deep Learning Architecture for Graph Classification**, AAAI, 2018 [[pdf]](https://www.cse.wustl.edu/~muhan/papers/AAAI_2018_DGCNN.pdf)
