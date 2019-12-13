@@ -105,6 +105,10 @@ E. Lockhart, M. Shanahan, V. Langston, R. Pascanu, M. Botvinick, O. Vinyals, and
 
 **[8]** A. Grover, A. Zweig, S. Ermon, **Graphite: Iterative Generative Modeling of Graphs**, ICML, 2019. [[pdf]](https://arxiv.org/pdf/1803.10459.pdf) [[code TensorFlow]](https://github.com/ermongroup/graphite)
 
+**[9]** C. Yang, P. Zhuang, W. Shi, A. Luu, P. Li, **Conditional Structure Generation through Graph Variational Generative Adversarial Nets**, NeurIPS, 2019. [[pdf]](http://jiyang3.web.engr.illinois.edu/files/condgen.pdf) [[code PyTorch]](https://github.com/KelestZ/CondGen)
+
+**[10]** R. Liao, Y. Li, Y. Song, S. Wang, C. Nash, W. L. Hamilton, D. Duvenaud, R. Urtasun, R. S. Zemel, **Efficient Graph Generation with Graph Recurrent Attention Networks**, NeurIPS, 2019. [[pdf]](https://arxiv.org/pdf/1910.00760.pdf) [[code PyTorch]](https://github.com/lrjconan/GRAN)
+
 ## 3.7 Graph Autoencoders
 
 **[1]** T. N. Kipf and M. Welling., **Variational graph auto-encoders,** 2016, Bayesian DL, NeurIPS [[pdf]](https://arxiv.org/pdf/1611.07308.pdf)
